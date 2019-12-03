@@ -125,13 +125,13 @@ nbdist/
 /.idea/
 /nb-configuration.xml
 /Servlet4Push.iml
-src/main/webapp/html/biz cards/
-src/main/webapp/html/logo/
-src/main/webapp/html/root/css/
-src/main/webapp/html/root/images/
-src/main/webapp/html/root/js/
-src/main/webapp/html/root/scripts/
-src/main/webapp/html/video/
+src/main/html/biz cards/
+src/main/html/logo/
+src/main/html/root/css/
+src/main/html/root/images/
+src/main/html/root/js/
+src/main/html/root/scripts/
+src/main/html/video/
 .gitignore
 WebProjectLacroix.iml
 pom.xml
